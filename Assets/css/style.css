@@ -80,9 +80,8 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
- /*
-changed .benefits to .benefits-block
- */
+
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
