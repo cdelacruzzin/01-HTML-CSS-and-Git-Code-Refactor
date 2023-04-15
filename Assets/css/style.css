@@ -36,16 +36,12 @@ header nav {
     font-size: 20px;
 }
 
-/*
-changed .header div ul{} to .links{}
-*/
+
 header nav ul {
     list-style-type: none;
 }
 
-/*
-changed .header div ul li{} to .links li{}
-*/
+
 nav ul li {
     display: inline-block;
     margin-left: 25px;
