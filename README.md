@@ -6,7 +6,7 @@ This project was built because websites need to be accessible to everyone. Some 
 
 Link to deployed website: https://cdelacruzzin.github.io/01-HTML-CSS-and-Git-Code-Refactor/
 
-!Image preview of deployed website: (assets/preview-img.PNG)
+!Image preview of deployed website: (preview-img.PNG)
 ## Installation
 N/A
 
